@@ -1,0 +1,41 @@
+.header-icon {
+    i {
+        margin: 25px 0;
+        font-size: 200px !important;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        color: $warning;
+    }
+}
+
+.modal-content {
+    text-align: center;
+    p {
+        font-weight: 400;
+        font-size: 20px;
+    }
+    span {
+        font-weight: 400;
+        font-size: 12px;
+    }
+}
+
+.modal-actions {
+    margin-top: 25px;
+    width: 100%;
+    .buttons {
+        display: block;
+        width: 300px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .deleteButton {
+        background: $danger;
+        color: $text !important;
+        &:hover {
+            background: darken($color: $danger, $amount: 10);
+        }
+    }
+}

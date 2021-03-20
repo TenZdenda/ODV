@@ -1,0 +1,25 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!--
+     created with Free Online Sitemap Generator www.xml-sitemaps.com
+    -->
+    <url>
+        <loc>https://soc.zdenekpasek.cz/</loc>
+        <lastmod>2020-05-24T15:39:38+00:00</lastmod>
+    </url>
+    <url>
+        <loc>https://soc.zdenekpasek.cz/lectures</loc>
+        <lastmod>2020-05-24T15:39:38+00:00</lastmod>
+    </url>
+    <url>
+        <loc>https://soc.zdenekpasek.cz/faq</loc>
+        <lastmod>2020-05-24T15:39:38+00:00</lastmod>
+    </url>
+    <url>
+        <loc>https://soc.zdenekpasek.cz/login</loc>
+        <lastmod>2020-05-24T15:39:38+00:00</lastmod>
+    </url>
+    <url>
+        <loc>https://soc.zdenekpasek.cz/register</loc>
+        <lastmod>2020-05-24T15:39:38+00:00</lastmod>
+    </url>
+</urlset>

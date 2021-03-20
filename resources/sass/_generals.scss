@@ -1,0 +1,68 @@
+.body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.action-icon {
+    color: $secondaryColor !important;
+    &:hover {
+        color: $primaryColor !important;
+    }
+}
+
+.uil {
+    font-size: 20px;
+}
+
+.dashboard-card {
+    height: 200px;
+}
+
+.v-item--active {
+    color: $primaryColor !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.contact {
+    padding: 50px;
+}
+
+.pt {
+    margin-bottom: 75px;
+}
+
+.edit-progress {
+    margin-top: 100px;
+}
+
+.name {
+    font-size: 18px;
+}
+
+.member-avatar {
+    border-radius: 35px;
+}
+
+.role {
+    color: $primaryColor;
+    font-weight: bold;
+    &::first-letter {
+        text-transform: uppercase;
+    }
+}
+
+
+@media (min-width: 992px) {
+    .body {
+        margin-left: 45px;
+        margin-right: 45px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .dashboard-card {
+        height: 250px;
+    }
+}
